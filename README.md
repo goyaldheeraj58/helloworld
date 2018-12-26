@@ -1,3 +1,3 @@
 # helloworld
-let satrat learning something valuable.
-dont sit around and fuck your life
+let start learning something valuable.
+Dont sit around and fuck your life
